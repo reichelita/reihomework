@@ -20,6 +20,10 @@ h1{
   margin: 0px;
   font-family: arial;
   font-weight: bold;
+}
+
+.row {
+	// padding: 10px;
 
 
 /* Large devices */
