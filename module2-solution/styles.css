@@ -14,12 +14,13 @@ h1{
 }
 
 .content h2 {
-  position: relative;
+  position: absolute;
   right: 0px;
   top: 0px;
   margin: 0px;
   font-family: arial;
   font-weight: bold;
+  border: 1px solid black;
 }
 
 .row {
@@ -29,9 +30,8 @@ h1{
 p {
   width: 50%;
   /* border: 1px solid black; */
-  float: left;
+  float: center;
   padding: 10px;
-  text-align: center;
 }
 
 
