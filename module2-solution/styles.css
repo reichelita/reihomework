@@ -14,16 +14,16 @@ h1{
 	font-size: 200%;
 }
 
-.content h2 {
-  position: absolute;
-  right: 0px;
-  top: 0px;
-  font-weight: bold;
-  border: 2px solid black;
+.h2 {
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	font-weight: bold;
+	border: 2px solid black;
 }
 
 .row {
-	// padding: 10px;
+	padding: 10px;
 }
 
 p {
