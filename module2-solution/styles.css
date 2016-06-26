@@ -27,11 +27,12 @@ h1{
 }
 
 .p {
-  width: 90%;
-  /* border: 1px solid black; */
-  float: center;
-  text-align: center;
-  padding: 10px;
+	position: relative;
+	width: 90%;
+	/* border: 1px solid black; */
+	float: center;
+	text-align: center;
+	padding: 10px;
 }
 
 
