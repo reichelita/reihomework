@@ -24,6 +24,14 @@ h1{
 
 .row {
 	// padding: 10px;
+}
+
+p {
+  width: 50%;
+  border: 1px solid black;
+  float: left;
+  padding: 10px;
+}
 
 
 /* Large devices */
