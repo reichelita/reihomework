@@ -26,8 +26,8 @@ h1{
 
 .h2 {
 	position: absolute;
-	right: 0px;
-	top: 0px;
+	right: -2px;
+	top: -52px;
 	font-weight: bold;
 	border: 2px solid black;
 	/* margin-bottom: 15px; */
