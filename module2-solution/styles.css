@@ -22,6 +22,7 @@ h1{
 	text-align: center;
 	padding: 10px;
 	margin-top: 50px;
+	background-color: #CC78E5;
 }
 
 .h2 {
@@ -34,7 +35,8 @@ h1{
 	text-align: center;
 	font-size: 150%;
 	width: 150px;
-	height: 25px;
+	height: 30px;
+	background-color: #57F687;
 }
 
 .row {
