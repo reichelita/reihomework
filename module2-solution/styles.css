@@ -14,6 +14,16 @@ h1{
 	font-size: 200%;
 }
 
+.p {
+	position: relative;
+	width: 90%;
+	height: 150px;
+	float: center;
+	text-align: center;
+	padding: 10px;
+	margin-top: 5px;
+}
+
 .h2 {
 	position: absolute;
 	right: 0px;
@@ -28,16 +38,6 @@ h1{
 
 .row {
 	padding: 10px;
-}
-
-.p {
-	position: relative;
-	width: 90%;
-	height: 150px;
-	float: center;
-	text-align: center;
-	padding: 10px;
-	margin-top: 5px;
 }
 
 
