@@ -1,3 +1,8 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
 *{
 	box-sizing: border-box;
 }
@@ -7,6 +12,15 @@ h1{
 	font-family: arial;
 	font-weight: bold;
 }
+
+.content h2 {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  margin: 0px;
+  font-family: arial;
+  font-weight: bold;
+
 
 /* Large devices */
 @media (min-width: 992px) {
