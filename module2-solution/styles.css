@@ -148,6 +148,7 @@ p {
 		float: left;
 		border: 2px solid black;
 		margin: 10px;
+		align-content: center;
 		
 	}
   .col-sm-1 {
