@@ -74,6 +74,7 @@ p {
   }
   .col-lg-4 {
     width: 33.33%;
+    box-sizing: border-box;
   }
   .col-lg-5 {
     width: 41.66%;
